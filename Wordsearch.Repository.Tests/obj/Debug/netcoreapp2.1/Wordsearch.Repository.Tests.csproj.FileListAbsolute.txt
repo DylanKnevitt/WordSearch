@@ -1,0 +1,17 @@
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.deps.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.runtimeconfig.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.runtimeconfig.dev.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.pdb
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\bin\Debug\netcoreapp2.1\Wordsearch.Repository.pdb
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.csprojAssemblyReference.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.csproj.CoreCompileInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.AssemblyInfoInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.AssemblyInfo.cs
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.csproj.CopyComplete
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository.Tests\obj\Debug\netcoreapp2.1\Wordsearch.Repository.Tests.pdb

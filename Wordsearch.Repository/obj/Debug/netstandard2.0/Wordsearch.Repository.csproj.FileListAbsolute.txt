@@ -1,0 +1,9 @@
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\bin\Debug\netstandard2.0\Wordsearch.Repository.deps.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\bin\Debug\netstandard2.0\Wordsearch.Repository.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\bin\Debug\netstandard2.0\Wordsearch.Repository.pdb
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.csproj.CoreCompileInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.AssemblyInfoInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.AssemblyInfo.cs
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\Wordsearch.Repository\obj\Debug\netstandard2.0\Wordsearch.Repository.csprojAssemblyReference.cache

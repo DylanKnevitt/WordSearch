@@ -1,0 +1,17 @@
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\WordSearch.Console.deps.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\WordSearch.Console.runtimeconfig.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\WordSearch.Console.runtimeconfig.dev.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\WordSearch.Console.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\WordSearch.Console.pdb
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.csproj.CoreCompileInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.AssemblyInfoInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.AssemblyInfo.cs
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.csprojAssemblyReference.cache
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\Wordsearch.Repository.dll
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\Wordsearch.Service.dll
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\Wordsearch.Repository.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\Wordsearch.Service.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\obj\Debug\netcoreapp2.1\WordSearch.Console.csproj.CopyComplete
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\WordSearch\bin\Debug\netcoreapp2.1\words.txt

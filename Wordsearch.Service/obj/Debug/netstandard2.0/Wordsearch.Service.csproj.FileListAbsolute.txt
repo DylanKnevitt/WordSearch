@@ -1,0 +1,12 @@
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\bin\Debug\netstandard2.0\Wordsearch.Service.deps.json
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\bin\Debug\netstandard2.0\Wordsearch.Service.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\bin\Debug\netstandard2.0\Wordsearch.Service.pdb
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.csproj.CoreCompileInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.AssemblyInfoInputs.cache
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.AssemblyInfo.cs
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.dll
+c:\users\dylank\documents\visual studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.csprojAssemblyReference.cache
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\Wordsearch.Service\bin\Debug\netstandard2.0\Wordsearch.Repository.dll
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\Wordsearch.Service\bin\Debug\netstandard2.0\Wordsearch.Repository.pdb
+C:\Users\dylank\Documents\Visual Studio 2017\Projects\WordSearch\Wordsearch.Service\obj\Debug\netstandard2.0\Wordsearch.Service.csproj.CopyComplete
